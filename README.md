@@ -9,10 +9,6 @@ This Java program implements a simple payroll system for managing employee salar
 4. **Main**: Contains the main method to run the program and interact with users.
 
 ## Function:
-# Payroll System README
-
-This Java program implements a simple payroll system for managing employee salaries. It consists of the following classes:
-
 1. **Employee**: An abstract class representing common attributes and methods for all employees.
 
    - `Employee(String empName, String empAddress, int basicWage)`: Constructor method that initializes an Employee object with the provided name, address, and basic wage.
